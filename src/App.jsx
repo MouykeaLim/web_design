@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <h1 className='underline bg-amber-700 flex'>hello</h1>
-      
+      <h2>Hello world MI Hor bek bek</h2>
     </div>
   )
 }
